@@ -1,3 +1,5 @@
+#This is the compare_rmse function used to determine best 20 features, before extended feature analysis removes 9 more which is also in this document at the bottom
+
 train <- read.csv("https://raw.githubusercontent.com/harrixide/Kaggle/refs/heads/main/train.csv")
 test <- read.csv("https://raw.githubusercontent.com/harrixide/Kaggle/refs/heads/main/test.csv")
 
